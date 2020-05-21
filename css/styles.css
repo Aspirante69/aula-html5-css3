@@ -1,0 +1,44 @@
+body {
+    background: #2E2E2E;
+    font-weight: arial;
+    font-style: arial;
+    margin-left: 70px;
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+p {
+    color: #ffffff
+}
+
+h1{
+    color: #ffffff;
+    font: 20px
+}
+
+h2 {
+    font-family: typewrong;
+    color: #04B404;
+    font-size: 20px;
+}
+
+h3{
+    font-family: monospace;
+    color: #04B404;
+    font-size: 40px
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width:200px
+}
+.logo {
+    width: 30px
+}
+
+footer {
+    margin-bottom: 30px
+}
